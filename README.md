@@ -38,10 +38,4 @@ Here are some screenshots of the application:
 
 - Compatible web browser (Chrome, Firefox, Safari, etc.)
 
-## Credits
-
-This project uses the following assets:
-
-- [Bank]
-- [Image]
 
