@@ -1,14 +1,11 @@
 # Banking System Web Application
 
-![Banking System](bank.jfif)
+
 
 ## Description
 
 This repository contains the code for a web-based banking system. The application allows users to view customer details and perform fund transfers between accounts.
 
-## Preview
-
-![Banking System Preview](image.jpg)
 
 ## Features
 
@@ -27,10 +24,10 @@ To run the application on your local machine, follow these steps:
 Here are some screenshots of the application:
 
 1. Customer Details
-   ![Customer Details](customers.jpg)
+ 
 
 2. Fund Transfer
-   ![Fund Transfer](transfer.jpg)
+ 
 
 ## Usage
 
@@ -45,6 +42,6 @@ Here are some screenshots of the application:
 
 This project uses the following assets:
 
-- [Bank](bank.jfif)
-- [Image](image.jpg)
+- [Bank]
+- [Image]
 
