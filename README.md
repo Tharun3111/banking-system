@@ -9,17 +9,17 @@ During my internship with The Sparks Foundation, I successfully developed a comp
 
 Key Features:
 
-User Transactions: The system allows users to perform credit and debit transactions seamlessly, ensuring accurate and up-to-date records of their financial activities.
+- User Transactions: The system allows users to perform credit and debit transactions seamlessly, ensuring accurate and up-to-date records of their financial activities.
 
-Balance Updates: Real-time updates are made to the user's account balance after each transaction, ensuring accurate and current financial information.
+- Balance Updates: Real-time updates are made to the user's account balance after each transaction, ensuring accurate and current financial information.
 
-User-Friendly Interface: The front-end of the system is designed with a user-friendly interface, making it easy for users to navigate and perform banking operations efficiently.
+- User-Friendly Interface: The front-end of the system is designed with a user-friendly interface, making it easy for users to navigate and perform banking operations efficiently.
 
 Technologies Used:
 
-Front-end: HTML, CSS, JavaScript
-Back-end: PHP
-Database: MySQL
+- Front-end: HTML, CSS, JavaScript
+- Back-end: PHP
+- Database: MySQL
 Throughout the internship, I gained valuable insights into web development and database management while honing my skills in front-end and back-end technologies. The experience has been instrumental in enhancing my proficiency as a developer and has provided me with a practical understanding of building secure and efficient banking applications.
 
 I am proud to have contributed to this project and look forward to leveraging my learnings to take on more challenging tasks in the future.
